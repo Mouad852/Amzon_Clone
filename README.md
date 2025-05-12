@@ -1,20 +1,27 @@
-# Amazon Clone
+# 🛒 Amazon Clone
 
-This is a cloned version of the official Amazon website, built for educational and practice purposes only.
+Ce projet est une réplique simplifiée de l’interface du site Amazon, développée à des fins d'apprentissage et de pratique front-end.
 
-## 🔧 Features
+---
 
-- Homepage layout similar to Amazon
-- Product listings
-- Shopping cart 
-- Responsive design 
+## ✨ Fonctionnalités
 
-## 🛠️ Technologies Used
+- Page d'accueil similaire à Amazon
+- Liste de produits
+- Panier d'achat
+- Design responsive 
 
-- HTML & CSS
+---
+
+## 🧰 Technologies utilisées
+
+- HTML
+- CSS
 - JavaScript
 
-## 🚀 Getting Started
+---
 
+## 🎥 Démo Vidéo
 
+[![Regarder la démo](https://youtu.be/1r6XlI1jMHQ)
 

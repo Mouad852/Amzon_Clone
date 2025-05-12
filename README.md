@@ -23,5 +23,5 @@ Ce projet est une réplique simplifiée de l’interface du site Amazon, dévelo
 
 ## 🎥 Démo Vidéo
 
-[![Regarder la démo (https://youtu.be/1r6XlI1jMHQ)]
+[Regarder la démo (https://youtu.be/1r6XlI1jMHQ)]
 
